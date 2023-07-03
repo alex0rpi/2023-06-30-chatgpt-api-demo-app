@@ -1,6 +1,6 @@
 # Simple console chatgpt bot app.
 
-This is a simple node app that displays a chat on the terminal with a chatgpt based bot.
+This is a simple node app that displays a chat on the terminal with a chatgpt based bot, using the openai API.
 
 Please create a .env file and fill it with the fields specified in .env-test.
 Make sure not to share your openai api key.
